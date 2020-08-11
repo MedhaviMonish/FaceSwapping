@@ -7,7 +7,7 @@ dataset was also not large because I just wanted it converge fast.
 
 
 Here's a video of training in progress.
-![Training](https://github.com/MedhaviMonish/FaceSwapping/blob/master/Image-Video/face%20changing.mp4)
+[Training](https://github.com/MedhaviMonish/FaceSwapping/blob/master/Image-Video/face%20changing.mp4)
 
 
 
@@ -15,4 +15,4 @@ After 10 to 15 minutes of training it was able to do te task easily.
 
 
 
-![Result](https://github.com/MedhaviMonish/FaceSwapping/blob/master/Image-Video/Face%20changing%20result.jpeg?raw=true "Trained" width="200")
+![Result](https://github.com/MedhaviMonish/FaceSwapping/blob/master/Image-Video/Face%20changing%20result.jpeg?raw=true=250x "Trained" )
