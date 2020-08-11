@@ -61,6 +61,10 @@ bias = np.load("biasGPU.npy")
 training_inputs = []
 target_outputs = []
 
+"""
+Each image is stored in csv files like: m (1).csv  , m (2).csv ... 
+Files starting with m contained my image and files with t contained my classmate's image. 
+"""
 for i in range(n):
     arr1 = np.genfromtxt("m ("+str(i)+").csv", delimiter=',')
     arr1 = arr1.flatten()
