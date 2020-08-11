@@ -13,9 +13,9 @@ Here's a video of training in progress.
 
 After 10 to 15 minutes of training it was able to do te task easily. 
 
+<img src="https://github.com/MedhaviMonish/FaceSwapping/blob/master/Image-Video/Face%20changing%20result.jpeg" alt="Result" width="800"/>
 
+The Left most image is my image recorded from webcam, right most is the expected output after transforming my image and middle one is the
+prediction after processing my image using the neural network.
 
-![Result](https://github.com/MedhaviMonish/FaceSwapping/blob/master/Image-Video/Face%20changing%20result.jpeg?raw=true "Trained" )
-
-
-<img src="https://github.com/MedhaviMonish/FaceSwapping/blob/master/Image-Video/Face%20changing%20result.jpeg" alt="drawing" width="200"/>
+The weights and biaas are stored in a csv file. 
