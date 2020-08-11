@@ -15,4 +15,7 @@ After 10 to 15 minutes of training it was able to do te task easily.
 
 
 
-![Result](https://github.com/MedhaviMonish/FaceSwapping/blob/master/Image-Video/Face%20changing%20result.jpeg=250x "Trained" )
+![Result](https://github.com/MedhaviMonish/FaceSwapping/blob/master/Image-Video/Face%20changing%20result.jpeg?raw=true "Trained" )
+
+
+<img src="https://github.com/MedhaviMonish/FaceSwapping/blob/master/Image-Video/Face%20changing%20result.jpeg" alt="drawing" width="200"/>
